@@ -1,4 +1,4 @@
-# B4A-UI-SERIES-1
+# B4A UI SERIES 1 - Building a login interface
 First Tutorial on User Interface with B4A
 
 Download the Apk here: https://github.com/LEAFECODES/B4A-UI-SERIES-1/blob/master/Objects/B4AUI.apk
